@@ -16,6 +16,7 @@
 - yarn add -D eslint-plugin-react eslint-plugin-react-hooks
 - yarn add -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
 - yarn add -D eslint-plugin-import eslint-plugin-jsx-a11y
+- yarn add -D prettier eslint-config-prettier eslint-plugin-react
 
 # Starting dev server
 - yarn start
