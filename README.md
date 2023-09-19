@@ -12,6 +12,9 @@
 - yarn add -D css-loader style-loader
 - yarn add -D webpack-merge
 - yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+- yarn add -D eslint
+- yarn add -D eslint-plugin-react eslint-plugin-react-hooks
+- yarn add -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
 
 # Starting dev server
 - yarn start
