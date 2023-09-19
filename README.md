@@ -11,7 +11,7 @@
 - yarn add -D babel-loader
 - yarn add -D css-loader style-loader
 - yarn add -D webpack-merge
-
+- yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 
 # Starting dev server
 - yarn start
