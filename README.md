@@ -25,6 +25,7 @@
 # Starting dev server
 
 - yarn start
+- yarn build --> will show visually bundle size in browser, easy to understand whats is taking more size.(webpack-bundle-analyzer webpack plugin)
 
 # starting prod server
 
