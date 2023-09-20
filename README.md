@@ -18,6 +18,9 @@
 - yarn add -D eslint-plugin-import eslint-plugin-jsx-a11y
 - yarn add -D prettier eslint-config-prettier eslint-plugin-react
 - yarn add -D husky@4 lint-staged
+- yarn add -D @babel/runtime @babel/plugin-transform-runtime
+- yarn add -D copy-webpack-plugin
+- yarn add -D webpack-bundle-analyzer
 
 # Starting dev server
 
